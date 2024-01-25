@@ -1,0 +1,1 @@
+export { BugsDetailedScreen } from './BugsDetailedScreen';

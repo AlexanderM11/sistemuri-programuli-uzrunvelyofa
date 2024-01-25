@@ -1,0 +1,1 @@
+export { BugsListScreen } from './BugsListScreen';

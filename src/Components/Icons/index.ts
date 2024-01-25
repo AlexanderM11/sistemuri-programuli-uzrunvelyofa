@@ -1,0 +1,11 @@
+export { ArrowBackIcon } from './ArrowBackIcon';
+export { HeaderCloseIcon } from './HeaderCloseIcon';
+export { HomeTabIcon } from './HomeTabIcon';
+export { PlusIconWithBackground } from './PlusIconWithBackground';
+export { GaleryIcon } from './GaleryIcon';
+export { UploaderIcon } from './UploaderIcon';
+export { DropdownCompleteIcon } from './DropdownCompleteIcon';
+export { SelectComponentIcon } from './SelectComponentIcon';
+export { HeaderAccountIcon } from './HeaderAccountIcon';
+export { SearchIcon } from './SearchIcon';
+export { PaperclipIcon } from './PaperclipIcon';
